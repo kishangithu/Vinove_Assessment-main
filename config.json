@@ -1,0 +1,8 @@
+{
+    "screenshot_interval": 300,
+    "screenshot_blurred": false,
+    "capture_screenshots": true,
+    "aws_s3_bucket": "bucket_name",
+    "AWS_ACCESS_KEY": "${AWS_ACCESS_KEY}",
+    "aws_secret_key": "${AWS_SECRET_KEY}"
+}
